@@ -65,3 +65,8 @@ Entidades:
 
 #### Primeiro Diagrama;
 ["Diagrama Casa oliveira"](diagrama.PNG)
+
+
+#### Esquema de tabela para o banco de dados 
+!["Esquemas casa oliveira excel"](esquemacasaoliveira.png)
+
